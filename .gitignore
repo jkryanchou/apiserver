@@ -1,3 +1,4 @@
+vendor/*
 ecc/*
 rsa/*
 logrotate.conf

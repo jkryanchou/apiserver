@@ -1,0 +1,28 @@
+
+[[constraint]]
+  name = "github.com/bouk/httprouter"
+  version = "2.0.0"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/cloudflare/golibs"
+
+[[constraint]]
+  name = "github.com/naoina/toml"
+  version = "0.1.1"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/phuslu/glog"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/phuslu/net"
+
+[[constraint]]
+  branch = "master"
+  name = "golang.org/x/sync"
+
+[[constraint]]
+  branch = "master"
+  name = "golang.org/x/sys"
